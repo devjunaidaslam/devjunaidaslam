@@ -1,18 +1,202 @@
-# 💫 About Me:
-I’m Junaid Aslam, a professional .NET Developer with 2+ years of hands-on experience building scalable, secure, and high-performance applications using the Microsoft technology stack.<br><br>I specialize in C#, .NET Core, ASP.NET Core API, ASP.NET MVC, and SQL Server, with strong experience in designing clean architectures and performance-optimized backend systems. I focus on writing clean, maintainable code that solves real-world business problems and scales as your product grows.<br><br>Professional Experience<br><br>I currently work as a .NET Developer at Technovez, where I:<br><br>Develop web applications and RESTful APIs using .NET Core<br><br>Implement performance optimization and debugging solutions<br><br>Integrate third-party services and APIs<br><br>Follow best practices for clean code and maintainable architecture<br><br>Previously, I worked as a .NET Intern, gaining strong fundamentals in C#, ASP.NET, and database-driven application development.<br><br>Key Projects<br><br>Apple Wallet PKPass Generator API<br>Built a secure API to generate PKPass files using certificate-based signing.<br><br>Shopify Product Synchronization Service<br>Developed a service to sync Shopify products, variants, inventory, and collections using GraphQL, Webhooks, and RabbitMQ.<br><br>CQRS + MediatR Clean Architecture Template<br>Created a reusable backend template using Clean Architecture, CQRS, and MediatR for scalable enterprise applications.<br><br>Core Skills & Technologies<br><br>Backend: C#, .NET Core, ASP.NET Core API, ASP.NET MVC<br><br>Architecture: Clean Architecture, Microservices, CQRS, MediatR<br><br>APIs & Messaging: REST APIs, GraphQL, Webhooks, RabbitMQ<br><br>Database: SQL Server, Entity Framework Core, LINQ<br><br>Auth & Security: Identity Framework<br><br>Tools: Git, Visual Studio, SSMS, Postman, Jira<br><br>What You Can Expect<br><br>Clean, scalable, and production-ready code<br><br>Clear communication and ownership of tasks<br><br>Reliable delivery with long-term maintainability in mind<br><br>If you’re looking for a dependable .NET developer who understands both business needs and technical excellence, I’d be glad to work with you.<br><br>📩 Send me a message and let’s discuss your project.
+<h1 align="center">Hi 👋 I'm Muhammad Junaid Aslam</h1>
 
+<h3 align="center">
+Senior .NET Backend Developer • Microservices • GraphQL • AI Infrastructure
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-aslam-58904b348) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24608949) 
+<p align="center">
+Building scalable backend systems, fintech solutions, AI-powered applications, and cloud-ready APIs.
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devjunaidaslam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devjunaidaslam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjunaidaslam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-junaid-aslam-58904b348/">LinkedIn</a> •
+<a href="mailto:junaidaslam1049@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/muhammad-junaid-aslam-58904b348/">Portfolio</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devjunaidaslam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Senior .NET Backend Developer specializing in building scalable APIs, microservices, enterprise applications, and cloud-ready systems using Microsoft's technology stack.
+
+My expertise includes ASP.NET Core, GraphQL, Shopify integrations, CQRS, MediatR, payment processing systems, AI infrastructure, and modern backend architectures.
+
+I focus on creating software that is secure, maintainable, performant, and built to scale.
+
+---
+
+## 🚀 What I Do
+
+✔ ASP.NET Core Development
+
+✔ REST APIs & GraphQL APIs
+
+✔ Microservices Architecture
+
+✔ AI Infrastructure & Voice Agent Systems
+
+✔ Shopify Integrations
+
+✔ Payment Gateway Integrations
+
+✔ Enterprise Software Development
+
+✔ Authentication & Authorization
+
+✔ Database Design & Optimization
+
+✔ Cloud-ready Backend Systems
+
+✔ Clean Architecture & CQRS
+
+✔ Performance Optimization
+
+---
+
+## 🏆 Highlights
+
+- 🚀 Delivered multiple production-ready backend systems
+- ⚡ Built scalable GraphQL APIs using HotChocolate
+- 🛍 Developed Shopify synchronization services using Webhooks & GraphQL
+- 💳 Built fintech and payment processing integrations
+- 🤖 Worked on AI Infrastructure and Voice Agent platforms
+- 🏗 Implemented Clean Architecture, CQRS & MediatR patterns
+- ☁ Experienced with Azure DevOps workflows and CI/CD pipelines
+- 🔄 Optimized backend services for performance and scalability
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- C#
+- .NET
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Entity Framework Core
+- GraphQL (HotChocolate)
+- SignalR
+- MediatR
+- CQRS
+- Background Services
+
+### Databases
+
+- SQL Server
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Flutter
+
+### Cloud & DevOps
+
+- Azure
+- Azure DevOps
+- Git
+- GitHub
+- Docker
+- IIS
+- CI/CD
+
+### Architecture
+
+- Microservices
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Repository Pattern
+- Dependency Injection
+
+### Integrations
+
+- Shopify APIs
+- GraphQL APIs
+- Webhooks
+- Payment Gateways
+- Third-Party APIs
+
+### Logging & Monitoring
+
+- Serilog
+- Structured Logging
+
+---
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- Event-Driven Architecture
+- Advanced Azure Services
+- Kubernetes
+- AI Agents & LLM Applications
+
+---
+
+## 💬 Ask Me About
+
+- ASP.NET Core
+- GraphQL
+- Microservices
+- CQRS & MediatR
+- Entity Framework Core
+- Clean Architecture
+- Shopify Development
+- Payment Integrations
+- Backend Performance Optimization
+- AI Infrastructure
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devjunaidaslam&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjunaidaslam&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=devjunaidaslam&theme=transparent"/>
+
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devjunaidaslam/devjunaidaslam/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email**
+
+junaidaslam1049@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/muhammad-junaid-aslam-58904b348/
+
+---
+
+> **"Engineering scalable backend systems that power modern applications."**
